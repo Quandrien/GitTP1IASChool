@@ -5,4 +5,5 @@ for i in l:
     print(i)
     print(l)
 
-print("créeons de conflicts")
+
+    print("pourquoi créer des conflicts?")
